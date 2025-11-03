@@ -13,7 +13,7 @@ The front-end uses HTML, CSS, JavaScript (in the `templates` and `static` folder
 Below are some visual snapshots of the application:
 ![Login / Register screen](Snaps/login_register.png)
 ![Game board screen](Snaps/game_board.png)
-*Note: Replace the filenames as needed depending on your “Snaps” folder.*
+
 
 ## 🚀 Features
 
