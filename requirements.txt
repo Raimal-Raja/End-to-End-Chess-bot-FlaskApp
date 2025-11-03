@@ -1,0 +1,10 @@
+Flask
+Flask-SQLAlchemy
+Flask-Login
+Werkzeug
+python-engineio
+python-socketio
+flask_socketio
+torch
+chess
+flask_migrate
