@@ -2,6 +2,7 @@
 
 *A web-based chess application with bot opponent, built using Flask and Python.*
 
+
 ## 🧩 Overview
 
 This project offers a complete web application where a user can log in/register, play a game of chess against a bot, and view the board and moves in real time.
