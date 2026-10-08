@@ -2,11 +2,10 @@
 
 Flask chess web application with account models, game logic, bot components, and browser templates.
 
-## Repository guide
+## Setup and repository reference
 
-### Contents
+### Project structure
 
-- [README.md](README.md)
 - [Snaps](Snaps)
 - [ai.py](ai.py)
 - [analysis.py](analysis.py)
@@ -43,9 +42,15 @@ python app.py
 
 ### Configuration and limitations
 
+Install the project dependencies and configure the account database before starting Flask. Browser matches, bot strength and saved-game workflows require separate verification.
+
 ### Validation
 
-Reviewed on 2026-10-08. Python syntax checks passed for 6 source files. Syntax validation does not establish runtime correctness or dependency compatibility.
+Audit: 2026-10-08. Repository structure, setup instructions and description were reviewed. 6 existing Python files passed syntax checks; changed files and new regression tests were checked separately. 2 JavaScript files passed node --check; JSX/TypeScript production builds were not run. Syntax checks do not establish full runtime correctness. External APIs, live scraping, GUI interaction, notebook training and production deployment were not comprehensively exercised.
+
+### Repository description
+
+The short GitHub description is provided in [REPOSITORY_DESCRIPTION.md](REPOSITORY_DESCRIPTION.md).
 
 ### Contributions
 
